@@ -1,1 +1,2 @@
 # Artwork_Gallery
+##### Artwork Gallery is an online platform where artists can showcase and sell their artworks, including paintings, sculptures, and more. Customers can browse and directly purchase products through an integrated payment gateway. The system also includes an admin panel to manage both customers and artists, as well as all the products listed by the artists. Additionally, the platform features email functionality to send purchase receipts to customers upon successful transactions.
